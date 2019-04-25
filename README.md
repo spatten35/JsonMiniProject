@@ -70,3 +70,7 @@ There are different ways of making classifications. One idea is shown schematica
 # Naive Bayes in Python
 Basic Text Classification with Naive Bayes
 In the mini-project, you'll learn the basics of text analysis using a subset of movie reviews from the rotten tomatoes database. You'll also use a fundamental technique in Bayesian inference, called Naive Bayes. This mini-project is based on Lab 10 of Harvard's CS109 class. Please free to go to the original lab for additional exercises and solutions.
+
+# Customer Segmentation using Clustering
+This mini-project is based on this blog post by yhat. Please feel free to refer to the post for additional information, and solutions.
+The dataset contains information on marketing newsletters/e-mail campaigns (e-mail offers sent to customers) and transaction level data from customers. The transactional data shows which offer customers responded to, and what the customer ended up buying. The data is presented as an Excel workbook containing two worksheets. Each worksheet contains a different dataset.
